@@ -11,9 +11,8 @@ const Hero = (props) => (
         Welcome To My Portfolio
       </SectionTitle>
       <SectionText>
-        put text here.
+      My name is Tony Jos Biraje. I am a Web developer located in the Montreal area and this my porfolio.
       </SectionText>
-      <Button onClick={() => window.location = 'https://google.com'}>Learn More</Button>
     </LeftSection>
   </Section>
 );

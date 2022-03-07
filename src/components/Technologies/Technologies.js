@@ -35,7 +35,37 @@ const Technologies = () =>  (
         </ListContainer>
       </ListItem>
       <ListItem>
-        <AiFillHtml5 size="3rem"/>
+        <AiFillHtml5 size="3rem"/> 
+        <ListContainer>
+          <ListTitle>UI/UX</ListTitle>
+          <ListParagraph>
+            Experience with <br />
+            tools like Figma
+          </ListParagraph>
+        </ListContainer>
+      </ListItem>
+      <ListItem>
+        <AiFillHtml5 size="3rem"/> 
+        <ListContainer>
+          <ListTitle>UI/UX</ListTitle>
+          <ListParagraph>
+            Experience with <br />
+            tools like Figma
+          </ListParagraph>
+        </ListContainer>
+      </ListItem>
+      <ListItem>
+        <AiFillHtml5 size="3rem"/> 
+        <ListContainer>
+          <ListTitle>UI/UX</ListTitle>
+          <ListParagraph>
+            Experience with <br />
+            tools like Figma
+          </ListParagraph>
+        </ListContainer>
+      </ListItem>
+      <ListItem>
+        <AiFillHtml5 size="3rem"/> 
         <ListContainer>
           <ListTitle>UI/UX</ListTitle>
           <ListParagraph>

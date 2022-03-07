@@ -9,13 +9,13 @@ const Footer = () => {
     <FooterWrapper>
       <LinkList>
         <LinkColumn>
-          <LinkTitle>Email</LinkTitle>
+          <LinkTitle>Contact me</LinkTitle>
           <LinkItem href="mailto:brolo1k@gmail.com">brolo1k@gmail.com</LinkItem>
         </LinkColumn>
       </LinkList>
       <SocialIconsContainer>
         <CompanyContainer>
-          <Slogan>Learning Everyday</Slogan>
+          <Slogan>Learning something new everyday.</Slogan>
         </CompanyContainer>
         <SocialContainer>
           <SocialIcons href="https://github.com">
