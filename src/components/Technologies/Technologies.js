@@ -1,8 +1,9 @@
 import React from 'react';
-import { DiFirebase, DiReact, DiZend, DiNpm} from 'react-icons/di';
+import { DiFirebase, DiReact, DiZend, DiNpm, DiJavascript1, DiCss3, DiMongodb} from 'react-icons/di';
 import { AiFillHtml5 } from "react-icons/ai";
 import { Section, SectionDivider, SectionText, SectionTitle } from '../../styles/GlobalComponents';
 import { List, ListContainer, ListItem, ListParagraph, ListTitle } from './TechnologiesStyles';
+import { GrNode } from "react-icons/gr";
 
 const Technologies = () =>  (
   <Section id="tech">
@@ -17,60 +18,60 @@ const Technologies = () =>  (
       <ListItem>
         <DiReact size="3rem" />
         <ListContainer>
-          <ListTitle>Front-End</ListTitle>
+          <ListTitle>React</ListTitle>
           <ListParagraph>
             Experience with <br />
-            React.js
+            React.js and Next.js
           </ListParagraph>
         </ListContainer>
       </ListItem>
       <ListItem>
-        <DiFirebase size="3rem" />
+        <DiJavascript1 size="3rem" />
         <ListContainer>
-          <ListTitle>Back-End</ListTitle>
+          <ListTitle>JavaScript</ListTitle>
           <ListParagraph>
             Experience with <br />
-            Node.js and Databases
-          </ListParagraph>
-        </ListContainer>
-      </ListItem>
-      <ListItem>
-        <AiFillHtml5 size="3rem"/> 
-        <ListContainer>
-          <ListTitle>UI/UX</ListTitle>
-          <ListParagraph>
-            Experience with <br />
-            tools like Figma
+            JavaScript
           </ListParagraph>
         </ListContainer>
       </ListItem>
       <ListItem>
         <AiFillHtml5 size="3rem"/> 
         <ListContainer>
-          <ListTitle>UI/UX</ListTitle>
+          <ListTitle>HTML</ListTitle>
           <ListParagraph>
             Experience with <br />
-            tools like Figma
+            HTML5
           </ListParagraph>
         </ListContainer>
       </ListItem>
       <ListItem>
-        <AiFillHtml5 size="3rem"/> 
+        <DiCss3 size="3rem"/> 
         <ListContainer>
-          <ListTitle>UI/UX</ListTitle>
+          <ListTitle>CSS</ListTitle>
           <ListParagraph>
             Experience with <br />
-            tools like Figma
+            CSS3 and SASS
           </ListParagraph>
         </ListContainer>
       </ListItem>
       <ListItem>
-        <AiFillHtml5 size="3rem"/> 
+        <GrNode size="3rem"/> 
         <ListContainer>
-          <ListTitle>UI/UX</ListTitle>
+          <ListTitle>Node</ListTitle>
           <ListParagraph>
-            Experience with <br />
-            tools like Figma
+            Currently Learning <br />
+            Node.js
+          </ListParagraph>
+        </ListContainer>
+      </ListItem>
+      <ListItem>
+        <DiMongodb size="3rem"/> 
+        <ListContainer>
+          <ListTitle>MongoDB</ListTitle>
+          <ListParagraph>
+            Currently Learning <br />
+            MongoDB
           </ListParagraph>
         </ListContainer>
       </ListItem>

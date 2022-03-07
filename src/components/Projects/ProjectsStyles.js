@@ -3,7 +3,7 @@ import styled from 'styled-components';
 export const Img = styled.img`
   width:100%;
   height:25vh;
-  object-fit: cover;
+  object-fit: contain;
   overflow: hidden;
 `
 
@@ -24,8 +24,8 @@ row-gap: 3rem;
 `
 export const BlogCard = styled.div`
   border-radius: 10px;
-  box-shadow: 3px 3px 20px rgba(80, 78, 78, 0.9);
-  opacity: 0.92;
+  box-shadow: 3px 3px 20px rgba(80, 78, 78, 0.6);
+  opacity: 0.8;
   background-color: black;
   text-align: center;
   width: 400px;
