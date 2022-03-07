@@ -1,19 +1,19 @@
-export const projects = [
+  export const projects = [
   {
     title: 'MERN Memories',
     description: "I made a browser game using HTML5, CSS3 and javascript. I learned how to manipulate the DOM.",
-      image: '/images/port1.png',
+      image: './images/port1.png',
       tags: ['Javascript', 'CSS', 'HTML'],
-    source: 'https://infallible-bardeen-a5723e.netlify.app/',
+    source: 'https://awesome-bassi-519a85.netlify.app/',
     visit: 'https://google.com',
     id: 0,
   },
   {
     title: 'E-Commerce',
     description:"I made this website you're looking using React and Next.js to showcase what I have learned so far.",
-    image: '/images/port2.png',
+    image: './images/port2.png',
     tags: ['React', 'JavaScript', 'Next.js'],
-    source: 'https://Biraje.tech/',
+    source: '#',
     visit: 'https://google.com',
     id: 1,
   },
