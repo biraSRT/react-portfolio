@@ -60,7 +60,7 @@ const Technologies = () =>  (
         <ListContainer>
           <ListTitle>Node</ListTitle>
           <ListParagraph>
-            Currently Learning <br />
+            Experience with <br />
             Node.js
           </ListParagraph>
         </ListContainer>
@@ -70,7 +70,7 @@ const Technologies = () =>  (
         <ListContainer>
           <ListTitle>MongoDB</ListTitle>
           <ListParagraph>
-            Currently Learning <br />
+            Experience with <br />
             MongoDB
           </ListParagraph>
         </ListContainer>

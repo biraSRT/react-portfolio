@@ -1,10 +1,10 @@
   export const projects = [
   {
     title: 'MERN Memories',
-    description: "I made a browser game using HTML5, CSS3 and javascript. I learned how to manipulate the DOM.",
+    description: "A full-stack react application that allows users to login and chat with each other while also being able to view daily featured steam games.",
       image: './images/port1.png',
-      tags: ['Javascript', 'CSS', 'HTML'],
-    source: 'https://awesome-bassi-519a85.netlify.app/',
+      tags: ['React', 'MongoDB', 'Express', 'Node.js', 'Steam API'],
+    source: 'https://github.com/biraSRT/final_project',
     visit: 'https://google.com',
     id: 0,
   },
