@@ -1,7 +1,6 @@
 ## Personal Portfolio
 
-![Imgur](https://imgur.com/tzKB9W0.png)
-
+![Imgur](https://imgur.com/sqRY5QS)
 
 ### Technologies
 React
