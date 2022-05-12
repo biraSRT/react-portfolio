@@ -1,6 +1,6 @@
 ## Personal Portfolio
 
-![Imgur](https://imgur.com/a/tzKB9W0.png)
+![Imgur](https://imgur.com/tzKB9W0.png)
 
 
 ### Technologies
