@@ -1,4 +1,7 @@
 ## Personal Portfolio
 
-![Portfolio Website](https://i.ibb.co/WgPMpts/image.png)
-# react-portfolio
+![Imgur](https://imgur.com/sqRY5QS.png)
+
+### Technologies
+React
+Next.js
