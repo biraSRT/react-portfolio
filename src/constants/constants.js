@@ -1,20 +1,20 @@
   export const projects = [
   {
     title: 'MERN Memories',
-    description: "A full-stack react application that allows users to login and chat with each other while also being able to view daily featured steam games using the steam API.",
+    description: "A full-stack react application that allows users to login and chat with each other while also being able to view daily featured steam games.",
       image: './images/port1.png',
       tags: ['React', 'MongoDB', 'Express', 'Node.js'],
-    source: 'https://steamfinder.netlify.app',
-    visit: 'https://google.com',
+    source: 'https://github.com/biraSRT/final_project',
+    visit: 'https://steamfinder.netlify.app/',
     id: 0,
   },
   {
     title: 'E-Commerce',
-    description:"I made this website you're looking using React and Next.js to showcase what I have learned so far.",
+    description:"I made this application you are looking at  using React and Next.js to showcase what I have learned so far as a web developer.                                             ",
     image: './images/port2.png',
     tags: ['React', 'JavaScript', 'Next.js'],
-    source: '#',
-    visit: 'https://google.com',
+    source: 'https://github.com/biraSRT/react-portfolio',
+    visit: '#',
     id: 1,
   },
   
