@@ -1,10 +1,10 @@
   export const projects = [
   {
     title: 'MERN Memories',
-    description: "A full-stack react application that allows users to login and chat with each other while also being able to view daily featured steam games.",
+    description: "A full-stack react application that allows users to login and chat with each other while also being able to view daily featured steam games using the steam API.",
       image: './images/port1.png',
-      tags: ['React', 'MongoDB', 'Express', 'Node.js', 'Steam API'],
-    source: 'https://github.com/biraSRT/final_project',
+      tags: ['React', 'MongoDB', 'Express', 'Node.js'],
+    source: 'https://steamfinder.netlify.app',
     visit: 'https://google.com',
     id: 0,
   },
